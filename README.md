@@ -1,4 +1,6 @@
+Focused on building interactive, user-centric web applications. With a background in Video Editing (Premiere/After Effects) and Graphic Design (Photoshop/Illustrator), I bring a unique aesthetic eye to every repository I build.
 
+⚡ Currently learning: Advanced React and UI/UX Principles.
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/yahya993_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/UNFORGETTABLE) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:unforgettable993@gmail.com) 
 
